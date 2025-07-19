@@ -1,52 +1,40 @@
 ## 👋 Привет, меня зовут Арсений!
-### Я Начинающий Промпт-инженер из Уфы
+### Промпт-инженер и AI-разработчик из Уфы
 
 ### Разрабатываю и внедряю ИИ-решения, которые сокращают расходы и значительно ускоряют бизнес-процессы!
 
-💡 Специализация: внедрение ИИ в бизнес-процессы.
-
 <p align="left">
-  <a href="https://zerocoder.ru/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Учусь_в-Zerocoder-blue?style=for-the-badge"></a>
+  <a href="https://zerocoder.ru/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Выпускник-Zerocoder-blue?style=for-the-badge"></a>
   <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Статус-Открыт_к_предложениям-brightgreen?style=for-the-badge"></a>
 </p>
 
-Я увлечен современными технологиями и всем, что связано с искусственным интеллектом. Сейчас я сфокусирован на изучении технологий внедрения ИИ в рабочие процессы, а также исследую варианты взаимодействия ИИ с человеком в повседневной жизни.
+Я увлечен созданием интеллектуальных решений на базе больших языковых моделей (LLM). Моя основная сфера деятельности — **разработка автономных AI-агентов для оптимизации бизнес-процессов**. Я специализируюсь на создании и оптимизации промптов, интеграции LLM через API и работе с векторными хранилищами.
 
-- 🎓 Прохожу обучение в онлайн-школе **Zerocoder**.
-- 🚀 Ищу свою первую работу в IT и открыт для предложений о сотрудничестве.
-- 🌱 Моя цель — научиться применять ИИ для решения реальных задач.
+- 🚀 Ищу интересные проекты и открыт для предложений о сотрудничестве.
+- 🌱 Моя цель — применять ИИ для решения сложных и нетривиальных задач.
 
 ---
 
-### 🛠️ Мой стек технологий
+### 🛠️ Мои ключевые компетенции и стек
 
-<table>
-  <tr>
-    <td valign="top" width="140px"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Backend & AI</strong></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="35" height="35"/>&nbsp;
-      <br /><em>Библиотеки: LangChain, OpenAI API, Hugging Face Transformers</em>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Инструменты</strong></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="35" height="35"/>&nbsp;
-      <br /><em>Платформы: n8n, Make.com, ChatGPT, Midjourney</em>
-    </td>
-  </tr>
-</table>
+#### 🤖 Промпт-инжиниринг и работа с LLM
+- **Разработка и оптимизация промптов:** Создание эффективных запросов для моделей OpenAI (GPT), Anthropic (Claude), Mistral и др.
+- **Продвинутые техники:** Уверенное применение методов `Zero-shot`, `Few-shot` и `Chain-of-Thought (CoT)` для повышения качества ответов.
+- **RAG и векторные хранилища:** Опыт работы с `Embeddings` и `Retrieval-Augmented Generation` для ответов на основе кастомных данных.
+- **Оценка качества:** Анализ ответов LLM на полноту, точность и релевантность.
+
+#### 🎨 Генерация изображений
+- **Работа с нейросетями:** `Midjourney`, `DALL-E 3`, `Stable Diffusion`, `Leonardo AI`.
+
+#### ⚙️ Backend и Интеграции
+- **Языки:** Python, JavaScript (Node.js)
+- **Фреймворки:** FastAPI
+- **Работа с API:** Глубокие знания `REST API` и `Webhooks` для интеграции различных сервисов.
+- **Форматы данных:** `JSON`
+
+#### 🌐 Frontend
+- **Библиотеки/Фреймворки:** React
+- **Языки:** JavaScript
 
 ---
 
