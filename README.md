@@ -46,6 +46,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/goodman-rb/ai-resume-analyzer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goodman-rb&repo=ai-resume-analyzer&theme=dracula&locale=ru" />
+  </a>
+</p>
+
 ---
 
 ### 📫 Как со мной связаться
